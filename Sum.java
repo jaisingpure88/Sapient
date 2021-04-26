@@ -3,6 +3,8 @@ public class Sum{
     int x = 5;
     int y = 6;
     int sum = x + y;
+    int minus=x-y;
     System.out.println(sum);
+    System.out.println(minus);
   }
 }
