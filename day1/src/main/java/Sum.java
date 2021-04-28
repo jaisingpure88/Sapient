@@ -4,7 +4,9 @@ public class Sum{
     int y = 6;
     int sum = x + y;
     int minus=x-y;
+    int div = x/y;
     System.out.println(sum);
     System.out.println(minus);
+    System.out.println(div);
   }
 }
